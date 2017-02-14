@@ -29,6 +29,7 @@ int main()
 		}
 
 		printf("The average for bowler %d is %f\n", i, total/3);
+		total = 0;
 
 	}
 	return 0;
